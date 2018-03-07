@@ -13,3 +13,4 @@ I will test the new repository.
 I forget it.
 master
 test featuer1
+no fast forward
